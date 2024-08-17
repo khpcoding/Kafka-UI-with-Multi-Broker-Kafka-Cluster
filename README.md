@@ -1,4 +1,5 @@
-# KafkaUI-with-Docker
+# Kafka UI with Multi-Broker Kafka Cluster
+
 
 This project sets up a multi-broker Kafka cluster along with a Kafka UI for managing and monitoring the cluster. The setup includes three Kafka brokers, a Zookeeper instance, and Kafka UI running on Docker.
 
